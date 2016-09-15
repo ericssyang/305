@@ -1,5 +1,3 @@
-
-
 //Workshop 1 - Linkage, Storage Duration, Namespace, and OS interface
 // w1. cpp
 
@@ -23,7 +21,7 @@ int main(int arc, char*, char argv[]){
     process(argv[i]);
   }
   
-  int WaitKey;
+  /*int WaitKey;
   std::cin >> WaitKey;
-  return 0;
+  return 0;*/
 }

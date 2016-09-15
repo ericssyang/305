@@ -22,6 +22,6 @@ int main(int arc, char*, char argv[]){
   }
   
   /*int WaitKey;
-  std::cin >> WaitKey;
-  return 0;*/
+  std::cin >> WaitKey;*/
+  return 0;
 }
